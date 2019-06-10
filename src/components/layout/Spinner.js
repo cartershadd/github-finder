@@ -5,7 +5,7 @@ class Spinner extends Component {
     render() {
         return (
             <div>
-                <img src={spinner.gif} alt="Loading..." className='spinner'
+                <img src={spinner} alt="Loading..." className='spinner'
                      style={{ width: '200px', margin: 'auto', display: 'block'}} />
             </div>
         );
