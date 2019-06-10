@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2f983ff-d26b-4c7f-b18e-9c776f0021b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout/Spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Spinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,22 +43,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/users/User.js">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/Spinner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/layout/Spinner.js">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -134,12 +136,13 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/users/User.js" />
         <option value="$PROJECT_DIR$/src/components/layout/Spinner.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="995" />
+    <option name="width" value="1144" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -155,24 +158,6 @@
             <path>
               <item name="github-finder" type="b2602c69:ProjectViewProjectNode" />
               <item name="github-finder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github-finder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github-finder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="github-finder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,7 +227,7 @@
       <workItem from="1560176159624" duration="2977000" />
       <workItem from="1560179394610" duration="41000" />
       <workItem from="1560184764047" duration="258000" />
-      <workItem from="1560186303807" duration="403000" />
+      <workItem from="1560186303807" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="Pushing project to github">
       <created>1560184791711</created>
@@ -265,22 +250,29 @@
       <option name="project" value="LOCAL" />
       <updated>1560186493843</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed another another typo in spinner.js">
+      <created>1560186745577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560186745577</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54824000" />
+    <option name="totallyTimeSpent" value="55978000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="796" height="832" extended-state="0" />
+    <frame x="-8" y="0" width="915" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.15019763" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.3189066" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.17142858" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.2957143" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" visible="true" weight="0.042979944" />
@@ -302,7 +294,8 @@
     <MESSAGE value="Pushing project to github" />
     <MESSAGE value="fixed typo in spinner.js" />
     <MESSAGE value="fixed another typo in spinner.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed another typo in spinner.js" />
+    <MESSAGE value="fixed another another typo in spinner.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed another another typo in spinner.js" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/public/index.html">
@@ -453,11 +446,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/layout/Spinner.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
