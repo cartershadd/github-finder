@@ -1,4 +1,4 @@
-import React, { Fragment, Component } from 'react';
+import React, { Component } from 'react';
 import spinner from './spinner.gif';
 
 class Spinner extends Component {
