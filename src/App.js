@@ -43,6 +43,6 @@ const App = () => {
             </AlertState>
         </GithubState>
     );
-}
+};
 
 export default App;
